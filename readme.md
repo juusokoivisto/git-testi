@@ -1,2 +1,2 @@
 # Github Testi
-## Tämä on testi github arkisto
+Tämä on testi GitHub arkisto
